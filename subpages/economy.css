@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell&display=swap');
+
+body {
+  font-family: Cantarell;
+}
+
+#slidesTitle {
+  font-size: 150%;
+  margin-left: 20%;
+}
+
+#slidesP {
+  text-align: justify;
+  text-indent: 4%;
+  
+  font-size: 110%;
+  
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.slidesImgs {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+#main-title {
+  text-align: center;
+  
+  font-size: 50px;
+}
+
+.subheading {
+  margin-left: 2%;
+}
